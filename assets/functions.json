@@ -1,0 +1,9 @@
+{
+  "exports": [
+    {
+      "id": "http.commerce.catalog.storefront.productsearch.search.before",
+      "virtualPath": "./dist/commerce.catalog.storefront.products.manifest.all.js",
+      "actionId": "http.commerce.catalog.storefront.productsearch.search.before"
+    }
+  ]
+}
